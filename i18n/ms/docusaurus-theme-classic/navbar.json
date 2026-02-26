@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Laman Saya",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Dokumen",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Guides": {
+    "message": "Panduan",
+    "description": "Navbar item with label Guides"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  }
+}
